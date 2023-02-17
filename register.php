@@ -110,7 +110,7 @@ if (isset($_POST['daftar'])) {
     <div>
         <footer class="footer">
             <center>
-                © 2023 by Mohammad Rifki Riansyah
+            © 2023 by<a href="https://github.com/MuhamadRifqiAshari"> M.Rifqi Ashari</a>
             </center>
         </footer>
 
